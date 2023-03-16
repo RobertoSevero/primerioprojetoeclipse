@@ -1,4 +1,7 @@
 
 public class PrimeiroProjeto {
-	Systeout
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
